@@ -1,0 +1,6 @@
+D:\CODE\DE4\DAL_QLSV\bin\Debug\DAL_QLSV.dll
+D:\CODE\DE4\DAL_QLSV\bin\Debug\DAL_QLSV.pdb
+D:\CODE\DE4\DAL_QLSV\obj\Debug\DAL_QLSV.csproj.AssemblyReference.cache
+D:\CODE\DE4\DAL_QLSV\obj\Debug\DAL_QLSV.csproj.CoreCompileInputs.cache
+D:\CODE\DE4\DAL_QLSV\obj\Debug\DAL_QLSV.dll
+D:\CODE\DE4\DAL_QLSV\obj\Debug\DAL_QLSV.pdb
